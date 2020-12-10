@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">CropImageSG</string>
+    <string name="file_provider_authorities" translatable="false">com.she.cropimagesg.provider</string>
+    <string name="label_select_picture" translatable="false">选择图片</string>
+</resources>

@@ -1,0 +1,3 @@
+include ':ucrop'
+include ':app'
+rootProject.name = "CropImageSG"
